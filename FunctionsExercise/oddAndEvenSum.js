@@ -24,7 +24,6 @@ console.log(`Odd sum = ${totalOddSum(numberAsText)}, Even sum = ${totalEvenSum(n
 }
 
 
-
-
 oddAndEvenSum(1000435);
 oddAndEvenSum(9843212318674)
+oddAndEvenSum(546332478)
