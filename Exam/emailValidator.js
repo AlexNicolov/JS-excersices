@@ -1,4 +1,4 @@
-function emailValidator(input) {
+ function emailValidator(input) {
     let eMail = input.shift();
     let linesOfInput = input.shift().split(', ')
 
